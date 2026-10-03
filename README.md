@@ -3,8 +3,8 @@
 Practice programs from my journey learning Java from scratch, as part of preparing for a career move into software development engineering in test (SDET).
 
 ## Tools
-- Java 21
-- IntelliJ IDEA Community Edition
+- Java 27
+- IntelliJ IDEA Ultimate Edition
 - Git and GitHub
 
 ## What's inside
